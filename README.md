@@ -5,7 +5,7 @@ It demonstrates how to retrieve stock price data, compute basic indicators, and 
 
 For **security reasons**, the API key used to download the data has been removed from the notebook.
 Anyone reviewing the project will need to _**insert their own API key**_ if they wish to re-run the data retrieval cells.
-# Notabene: I used TwelveData API for data retrieval of this project.
+**Notabene: I used TwelveData API for data retrieval of this project.**
 
 # Stock Analysis – Assignment
 Project Overview
